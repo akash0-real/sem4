@@ -1,0 +1,1 @@
+/home/akash/MyFirstApp/android/app/build/intermediates/cxx/Debug/581ol2xz/obj/x86

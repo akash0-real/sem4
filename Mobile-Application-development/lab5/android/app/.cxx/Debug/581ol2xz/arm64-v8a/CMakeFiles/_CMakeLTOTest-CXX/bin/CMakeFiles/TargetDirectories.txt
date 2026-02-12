@@ -1,0 +1,4 @@
+/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v5
+0	3	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+2	2139	1769060766423770568	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	df583f1b028d2505
+0	2233	1769060766550765543	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	3d77ef0ee8f8b73d
+1	2238	1769060766555765345	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	b6df1cb71a171d16
+0	2763	1769060767060745363	CMakeFiles/appmodules.dir/OnLoad.cpp.o	ee6951b94919c742
+0	2807	1769060767121742949	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	6080621616ee2b3f
+0	3126	1769060767439730361	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	a27b3083dd65f1dd
+0	3711	1769060768014707601	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	8fc3ea29e11cefe
+0	3744	1769060768048706254	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	7bc0961738007d91
+0	4184	1769060768474689384	CMakeFiles/appmodules.dir/home/akash/MyFirstApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4b4a756a720525c2
+0	4195	1769060768496688513	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/home/akash/MyFirstApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	c6e0cee63f409cd6
+4195	4228	1769060768561685939	/home/akash/MyFirstApp/android/app/build/intermediates/cxx/Debug/581ol2xz/obj/x86_64/libreact_codegen_safeareacontext.so	f0b1e721dd237a43
+4229	4257	1769060768589684830	/home/akash/MyFirstApp/android/app/build/intermediates/cxx/Debug/581ol2xz/obj/x86_64/libappmodules.so	1a59587f7e341b8f
+0	4	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+1	4	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+0	5	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+0	4	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+0	5	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+0	4	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
+1	4	0	/home/akash/MyFirstApp/android/app/.cxx/Debug/581ol2xz/x86_64/CMakeFiles/cmake.verify_globs	4bdf4c480be366cd
