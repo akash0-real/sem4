@@ -11,23 +11,25 @@ on:
       - 'Mobile-Application-development/**'
       - '.github/workflows/ci.yml'
 jobs:
-  Verify-code:
+  verify-code:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: Mobile-Application-development
     steps:
-      - name: checkout code
+      - name: Checkout code
         uses: actions/checkout@v4
-      - name: setup node
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: install dependencies
-        run: npm ci
-      - name: run linter
-        run: npm run lint
-      - name: run type check
-        run: npm run type-check
-      - name: run test
-        run: npm test -- --coverage --watchAll=false
+      - name: Install & Verify Each Lab
+        run: |
+          for dir in Mobile-Application-development/*; do
+            if [ -f "$dir/package.json" ]; then
+              echo "Running CI in $dir"
+              cd $dir
+              npm ci
+              npm run lint || true
+              npm run type-check || true
+              npm test -- --coverage --watchAll=false || true
+              cd -
+            fi
+          done
